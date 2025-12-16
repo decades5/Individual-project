@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Segoe UI", Arial, sans-serif;
+}
+
+body {
+    background: #a7d8ff;
+    color: #063b57;
+    padding-bottom: 40px;
+}
+
+header {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+header h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    font-size: 18px;
+    opacity: 0.9;
+}
+
+section {
+    width: 90%;
+    max-width: 800px;
+    margin: 30px auto;
+    background: #ffffffaa;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+h2 {
+    margin-bottom: 15px;
+}
+
+.skills-box {
+    background: #d4efff;
+    border: 3px dashed #5fb3ff;
+    padding: 20px;
+    border-radius: 16px;
+    margin-top: 10px;
+}
+
+.skills-box p {
+    margin-bottom: 8px;
+    font-weight: 500;
+}
